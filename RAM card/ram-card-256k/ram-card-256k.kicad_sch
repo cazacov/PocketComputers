@@ -3071,9 +3071,7 @@
     (uuid 7250dad1-b103-48a6-bef8-ebcb905dca40)
     (property "Reference" "U1" (id 0) (at 123.19 110.49 0))
     (property "Value" "HC138" (id 1) (at 123.19 113.03 0))
-    (property "Footprint" "Package_SO:SOP-16_4.55x10.3mm_P1.27mm" (id 2) (at 130.81 121.92 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
+    (property "Footprint" "Package_SO:SOP-16_3.9x9.9mm_P1.27mm" (id 2) (at 130.81 121.92 0))
     (property "Datasheet" "" (id 3) (at 130.81 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3415,7 +3413,7 @@
       (reference "S1") (unit 1) (value "R./W.") (footprint "custom-footprints:slider_switch_7x3")
     )
     (path "/7250dad1-b103-48a6-bef8-ebcb905dca40"
-      (reference "U1") (unit 1) (value "HC138") (footprint "Package_SO:SOP-16_4.55x10.3mm_P1.27mm")
+      (reference "U1") (unit 1) (value "HC138") (footprint "Package_SO:SOP-16_3.9x9.9mm_P1.27mm")
     )
     (path "/0b1a0680-7430-4b0f-aaa1-4269f0df11fa"
       (reference "U2") (unit 1) (value "KM681000BLG") (footprint "Package_SO:SSOP-32_11.305x20.495mm_P1.27mm")
