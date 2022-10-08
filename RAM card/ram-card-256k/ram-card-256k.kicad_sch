@@ -3270,7 +3270,7 @@
     (property "Value" "CR1216" (id 1) (at 128.27 69.0879 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "custom-footprints:Battery_CR1216" (id 2) (at 124.46 68.326 90)
+    (property "Footprint" "custom-footprints:Battery_CR1216_hole" (id 2) (at 124.46 68.326 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 124.46 68.326 90)
@@ -3386,7 +3386,7 @@
       (reference "#PWR0110") (unit 1) (value "VCC") (footprint "")
     )
     (path "/d6c92ca2-7330-41ea-94a6-91aa589c8ef3"
-      (reference "BT1") (unit 1) (value "CR1216") (footprint "custom-footprints:Battery_CR1216")
+      (reference "BT1") (unit 1) (value "CR1216") (footprint "custom-footprints:Battery_CR1216_hole")
     )
     (path "/d5b91f7d-2204-491d-9121-28cfcffdb18d"
       (reference "C1") (unit 1) (value "330 nF") (footprint "Capacitor_SMD:C_1812_4532Metric")
