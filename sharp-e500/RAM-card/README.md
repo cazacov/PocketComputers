@@ -4,7 +4,13 @@
 
 ![Overview](./_img/card.jpg?raw=true)
 
-[Download schematic](./ram-card-256k/ram-card-256k.pdf)
+## Circuit Diagram
+
+![Circuit diagram](./_img/circuit-diagram.png?raw=true)
+
+[Download as PDF](./ram-card-256k/ram-card-256k.pdf)
+
+[KiCad Project](./ram-card-256k/)
 
 ## PCB
 
@@ -23,6 +29,7 @@ PCB: 41.9 x 54.1 x 0.8 mm
 | D2 | 1N4148W | SOD-123 | Fast switching diode |
 | U1 | HC138 | SOIC-16 | Address decoder |
 | U2, U3 | KM681000BLG | SSOP-32 | 128K x 8-bit low power CMOS static RAM |
+| S1 | Slider switch | 6.7 x 2.7 mm | Write protection |
 
 ## Usage
 
