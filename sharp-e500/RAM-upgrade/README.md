@@ -2,7 +2,7 @@
 
 ## Internal RAM upgrade from 32K to 128K
 
-The internal RAM (HM62256A) can be easily replaced with 128K CMOS static RAM.
+The internal 32K RAM (HM62256A) can be easily replaced with 128K CMOS static RAM.
 
 1. Solder out 32K chip
 2. Solder the new chip on the same contact pads. The old chip had 28 pins while the new one has 32. Pins 1, 2, 31 and 32 stay not connected (yet).
