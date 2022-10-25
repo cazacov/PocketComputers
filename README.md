@@ -19,3 +19,7 @@ My experiments with programmable calculators and pocket computers.
 [DIY 256K RAM card project](./sharp-e500/RAM-card)
 
 
+---
+All trademarks, logos and brand names are the property of their respective owners. All company, product and service names are for identification purposes only. 
+
+I am not an electronics engineer. It's a hobby project. Use it at your own risk.
