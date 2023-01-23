@@ -114,7 +114,7 @@ COPY "G:PERIOD.221" TO "F:"
 REM check that file is now present on drive F:
 FILES "F:"
 
-REM check the remaining free disk space (must be ~8K less then on a newly initialized card)
+REM check the remaining free disk space (must be ~8K less than on a newly initialized card)
 DSKF "F:"
 
 REM test if information is preserved on the RAM card when not inserted in E500 (CR1216 cell should provide enough power to store data for few months)
